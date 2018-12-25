@@ -1,2 +1,2 @@
-# -Neural-Networks-and-Deep-Learning
- Cpurse - Neural Networks and Deep Learning
+# Neural-Networks-and-Deep-Learning
+ Course - Neural Networks and Deep Learning
